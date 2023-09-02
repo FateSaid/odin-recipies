@@ -1,0 +1,35 @@
+* {
+    line-height: 1.5;
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    list-style:none;
+}
+body {
+    background-color:lightcoral;
+}
+
+.recipe-card {
+    text-align: center;
+    margin: 10px auto;
+    background-color:white;
+    border: 2px solid yellow;
+    width: 400px;
+    background-color:white;
+    
+}
+h3 {
+    background-color:black;
+    color:white;
+    display:inline-block;
+}
+a {
+    background-color:orange;
+    color:white;
+    display:inline-block;
+    margin: 2px;
+    padding: 10px;
+}
+h3 {
+    border-bottom: 2px solid black;
+}
